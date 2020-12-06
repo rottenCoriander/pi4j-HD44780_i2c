@@ -16,7 +16,7 @@ import java.io.IOException;
  */
 public class HD44780 {
     
-    //public final static int ARDUINO_ADDRESS = 0x27;
+    
     private static boolean verbose = "true".equals(System.getProperty("hd44780.verbose", "false"));
     
     private I2CBus bus;
