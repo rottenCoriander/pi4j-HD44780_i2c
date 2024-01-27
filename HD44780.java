@@ -12,7 +12,7 @@ import java.io.IOException;
 
 /**
  *
- * @author ss201040303
+ * @author rottenCoriander
  */
 public class HD44780 {
     
